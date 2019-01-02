@@ -6,3 +6,4 @@ Complete design of USART interface with baud rate selection
 - [siliconsmart.pl](https://github.com/AkshayXPatil/Physical-Layout-Design/blob/master/siliconsmart.pl) is the perl script which automates the library characterization by taking some inputs from the user.
 - [native_abs.pl](https://github.com/AkshayXPatil/Physical-Layout-Design/blob/master/native_abs.pl) is the perl script which handles the cross platform conversion of the .LEF file (virtuoso to encounter).
 - [addvias.pl](https://github.com/AkshayXPatil/Physical-Layout-Design/blob/master/addvias.pl) and [pin_cover.tcl](https://github.com/AkshayXPatil/Physical-Layout-Design/blob/master/pin_cover.tcl) are the scripts to fix the potential DRC errors after PNR.
+Alternate repository -> [here](https://github.com/akash10295/VLSI-Design-FrontEnd-plus-BackEnd)
